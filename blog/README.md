@@ -3,7 +3,7 @@
 
 version: 1.0.0
 
-## TECHNOLOGIES
+## Game Mod & Private Server
 
 1. PHP
 1. HTML & CSS
